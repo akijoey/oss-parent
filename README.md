@@ -47,7 +47,7 @@ Performing a release deployment.
 
 [MIT][license-url] © AkiJoey
 
-[license-image]: https://img.shields.io/github/license/akijoey/oss-parent
-[license-url]: https://github.com/akijoey/oss-parent/blob/master/LICENSE
 [maven-image]: https://img.shields.io/maven-central/v/com.akijoey/oss-parent.svg?label=maven
 [maven-url]: https://search.maven.org/search?q=g:%22com.akijoey%22%20AND%20a:%22oss-parent%22
+[license-image]: https://img.shields.io/github/license/akijoey/oss-parent
+[license-url]: https://github.com/akijoey/oss-parent/blob/master/LICENSE
