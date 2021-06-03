@@ -49,5 +49,5 @@ Performing a release deployment.
 
 [license-image]: https://img.shields.io/github/license/akijoey/oss-parent
 [license-url]: https://github.com/akijoey/oss-parent/blob/master/LICENSE
-[maven-image]: https://img.shields.io/maven-central/v/com.akijoey/jbatison.svg?label=maven
-[maven-url]: https://search.maven.org/search?q=g:%22com.akijoey%22%20AND%20a:%22jbatison%22
+[maven-image]: https://img.shields.io/maven-central/v/com.akijoey/oss-parent.svg?label=maven
+[maven-url]: https://search.maven.org/search?q=g:%22com.akijoey%22%20AND%20a:%22oss-parent%22
