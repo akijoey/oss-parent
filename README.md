@@ -13,8 +13,6 @@ Add to your `settings.xml`:
 <servers>
   <server>
     <id>ossrh</id>
-    <username>jira-username</username>
-    <password>jira-password</password>
   </server>
 </servers>
 ```
@@ -37,11 +35,11 @@ Change project versions.
 
 Performing a snapshot deployment.
 
-`$ mvn clean deploy`
+`$ mvn deploy`
 
 Performing a release deployment.
 
-`$ mvn clean deploy -P release`
+`$ mvn deploy -P release`
 
 ## License
 

@@ -1,0 +1,20 @@
+{
+  "name": "oss-parent",
+  "version": "0.0.2",
+  "description": "Parent pom for public maven projects.",
+  "scripts": {
+    "format": "dev-scripts format",
+    "prepare": "dev-scripts hook"
+  },
+  "devDependencies": {
+    "@akijoey/dev-scripts": "latest",
+    "semantic-release-maven": "^1.0.0"
+  },
+  "prettier": "@akijoey/prettier-config",
+  "commitlint": {
+    "extends": "@akijoey/commitlint-config"
+  },
+  "lint-staged": {
+    "*.{json,yml}": "npm run format"
+  }
+}
