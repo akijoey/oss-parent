@@ -2,6 +2,7 @@
   "name": "oss-parent",
   "version": "0.0.2",
   "description": "Parent pom for public maven projects.",
+  "private": true,
   "scripts": {
     "format": "dev-scripts format",
     "prepare": "dev-scripts hook"
