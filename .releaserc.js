@@ -24,8 +24,8 @@ module.exports = {
   ],
   prepare: [
     '@semantic-release/changelog',
-    'semantic-release-maven',
     '@semantic-release/npm',
+    'semantic-release-maven',
     '@semantic-release/git'
   ]
 }
