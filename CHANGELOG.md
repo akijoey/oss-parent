@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AkiJoey/oss-parent/compare/v1.0.0...v1.0.1) (2021-09-07)
+
+
+### Bug Fixes
+
+* update plugin ([b84d3c7](https://github.com/AkiJoey/oss-parent/commit/b84d3c7ac3337dfcedca79a849d64045251575f6))
+
 # 1.0.0 (2021-09-07)
 
 
