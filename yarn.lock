@@ -47,13 +47,13 @@
   integrity sha512-HSAfzRe5FRnHCG0JYr7Um2J9orFbQgiEEz7KuR1b0mJlt7TlNZ5gmTOHNxCl6aUyYeB9vTlviaYk7Prla0s0qw==
 
 "@akijoey/semantic-release-config@latest":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@akijoey/semantic-release-config/-/semantic-release-config-1.0.9.tgz#aa664cb52fa6b72a4147781c739ae81eb7e41d85"
-  integrity sha512-h0R2X2b3ihuwY53V6qBJO6guSO4iCjib44ghuttwKbvodOeRDZqhjcbroRGVr0COYcbpuYSN9reTTrjkBO7plw==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@akijoey/semantic-release-config/-/semantic-release-config-1.1.0.tgz#a7253cecd66dccdc23b2ea7d915947ef87b6844b"
+  integrity sha512-qlVvwfu+KA6GgPOogzvkoGap9KeaZ7V6cnmhvWAKPHs7dq9kujc6CYrkB6wJ3AS8P6ZJKpoJJg+Eee5/dis+0A==
   dependencies:
     "@semantic-release/changelog" "^5.0.1"
     "@semantic-release/git" "^9.0.0"
-    semantic-release-maven "^1.0.3"
+    semantic-release-maven "^1.0.4"
     semantic-release-pypi "^2.1.0"
 
 "@akijoey/stylelint-config@latest":
@@ -1272,9 +1272,9 @@
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
 "@types/node@*":
-  version "16.7.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.7.11.tgz#5877b3ab359af251fd413517be2d4265b7fea9a9"
-  integrity sha512-OtOGO+DYmNNqJQG9HG4e5a6iqoRcNfdCf4ha3div7XF5w/uOa3YVpb5aRGClwSDKLmfOysv2hFIvoklffnQi4w==
+  version "16.7.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.7.12.tgz#4e30f80bfa9983fbc3b55875c0522da0303f4e95"
+  integrity sha512-IrhrusVM9QJAn1xLFFqbZH+XCI8L6eZoVHjR4sZeGTBBvjQSuchXGgKpown1jP75TCMSndcbudYBDTekOhcIZA==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -7276,10 +7276,10 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-semantic-release-maven@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.3.tgz#6d32614df416b24ab5a840c8b7fc076f01aaee1f"
-  integrity sha512-F5Z3Y9u38rN7FodxDWCEqJwVaPTC9vAw0C6d3PBpJc/Hx52e6qgU/72M4WNe/Qtwrg3N4Ddm2lbvKY8z9S+SQA==
+semantic-release-maven@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.4.tgz#6b560f21b3cf93c1e1751f443226eb79421c96d5"
+  integrity sha512-9s9fVwVrNcy5yGq/GSbxZ/KEguJk0kdOzlHoUh3p13wBzlz2lSwbvnx+xxiop2eAM5ZzI7tLMxVhFNBnqtTuAw==
   dependencies:
     aggregate-error "^3.1.0"
     execa "^5.1.1"
