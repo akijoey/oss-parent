@@ -8,7 +8,8 @@
     "prepare": "dev-scripts hook"
   },
   "devDependencies": {
-    "@akijoey/dev-scripts": "latest"
+    "@akijoey/dev-scripts": "latest",
+    "semantic-release-maven": "latest"
   },
   "prettier": "@akijoey/prettier-config",
   "commitlint": {
