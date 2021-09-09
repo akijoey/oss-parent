@@ -7285,7 +7285,7 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-semantic-release-maven@^1.0.4, semantic-release-maven@^1.0.7:
+semantic-release-maven@^1.0.4, semantic-release-maven@latest:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.7.tgz#46eb531d2d3f036e2ff89d34360fac1e5c537b2a"
   integrity sha512-xSHqroe4DLm5HgZcFsUH/K+r5Grp8l4R3o9SPIPAM55C1CKT//rneswMewPZjMevDzEYOB7tucA+jkSE0ZnLQA==
