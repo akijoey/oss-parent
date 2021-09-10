@@ -24,13 +24,13 @@ module.exports = {
         message:
           'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
       }
-    ],
-    '@semantic-release/github'
+    ]
   ],
   prepare: [
     '@semantic-release/changelog',
     'semantic-release-maven',
     '@semantic-release/npm',
     '@semantic-release/git'
-  ]
+  ],
+  publish: ['@semantic-release/npm']
 }
