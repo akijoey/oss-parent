@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/AkiJoey/oss-parent/compare/v1.1.0...v1.1.1) (2021-09-10)
+
+
+### Bug Fixes
+
+* gpg argument ([6f80551](https://github.com/AkiJoey/oss-parent/commit/6f805514a93225b48413d7a687bc333409eb1cfe))
+
 # [1.1.0](https://github.com/AkiJoey/oss-parent/compare/v1.0.9...v1.1.0) (2021-09-10)
 
 
