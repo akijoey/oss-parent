@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/AkiJoey/oss-parent/compare/v1.1.2...v1.1.3) (2021-09-10)
+
+
+### Bug Fixes
+
+* debug release ([a235830](https://github.com/AkiJoey/oss-parent/commit/a2358304ed9465945aad2d0a498e026d329fec09))
+
 ## [1.1.2](https://github.com/AkiJoey/oss-parent/compare/v1.1.1...v1.1.2) (2021-09-10)
 
 
