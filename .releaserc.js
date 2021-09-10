@@ -10,8 +10,13 @@ module.exports = {
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
     '@semantic-release/changelog',
+    [
+      'semantic-release-maven',
+      {
+        profile: 'release'
+      }
+    ],
     '@semantic-release/npm',
-    'semantic-release-maven',
     [
       '@semantic-release/git',
       {
@@ -24,8 +29,8 @@ module.exports = {
   ],
   prepare: [
     '@semantic-release/changelog',
-    '@semantic-release/npm',
     'semantic-release-maven',
+    '@semantic-release/npm',
     '@semantic-release/git'
   ]
 }
