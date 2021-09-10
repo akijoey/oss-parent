@@ -7285,9 +7285,9 @@ saxes@^5.0.1:
     xmlchars "^2.2.0"
 
 semantic-release-maven@^1.0.4, semantic-release-maven@latest:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.9.tgz#44f582a2cc34c2d6e585712c1d5139a7466d5ff3"
-  integrity sha512-LuviKph9YFPWoSEJnGUr2aPQtLlmCaz28243bFZSK9uMTXCkXl/lbRH1DOniUyj7i69c0Q/6YKtoykLsuTciqA==
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.10.tgz#58ba4a0a1fd3e1a7978621bcf21afea07878e757"
+  integrity sha512-WMq/PeEoE3kqYFKaPsOgC+je9YW6N/9dc640WECy/CjiNjT1VWYyJEJwGSby5j17m5oYjs29GpMNGoig1p7eJA==
   dependencies:
     aggregate-error "^3.1.0"
     execa "^5.1.1"
