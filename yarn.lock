@@ -47,13 +47,13 @@
   integrity sha512-HSAfzRe5FRnHCG0JYr7Um2J9orFbQgiEEz7KuR1b0mJlt7TlNZ5gmTOHNxCl6aUyYeB9vTlviaYk7Prla0s0qw==
 
 "@akijoey/semantic-release-config@latest":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@akijoey/semantic-release-config/-/semantic-release-config-1.1.0.tgz#a7253cecd66dccdc23b2ea7d915947ef87b6844b"
-  integrity sha512-qlVvwfu+KA6GgPOogzvkoGap9KeaZ7V6cnmhvWAKPHs7dq9kujc6CYrkB6wJ3AS8P6ZJKpoJJg+Eee5/dis+0A==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@akijoey/semantic-release-config/-/semantic-release-config-1.1.1.tgz#d9f9ce458f817c997aedb8ccd047cc51a7877e35"
+  integrity sha512-9TkBdlSio4jE40tij6UUgiAbYhko7fRk8+Tt9Sj98fYi77Q7DU99LutocD1QgAnqMDxlPwVArZlXVz8N/MphuQ==
   dependencies:
     "@semantic-release/changelog" "^5.0.1"
     "@semantic-release/git" "^9.0.0"
-    semantic-release-maven "^1.0.4"
+    semantic-release-maven "^1.1.3"
     semantic-release-pypi "^2.1.0"
 
 "@akijoey/stylelint-config@latest":
@@ -7284,7 +7284,7 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-semantic-release-maven@^1.0.4, semantic-release-maven@latest:
+semantic-release-maven@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.1.3.tgz#514dbb80917f79f283bd481636415fa9f849b0d3"
   integrity sha512-wX2WhI4o3dwHJZW9kPweHilLSBa2nIkySA1GVT2/+VlZxtLorkHd2RjDmaSKtxfbeNysSOk8l/9A2It+QENnKg==

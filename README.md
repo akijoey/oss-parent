@@ -23,7 +23,7 @@ Add to your `pom.xml`:
 <parent>
   <groupId>com.akijoey</groupId>
   <artifactId>oss-parent</artifactId>
-  <version>0.0.2</version>
+  <version>1.1.8</version>
 </parent>
 ```
 
