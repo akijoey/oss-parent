@@ -2750,9 +2750,9 @@ ecc-jsbn@~0.1.1:
     safer-buffer "^2.1.0"
 
 electron-to-chromium@^1.3.830:
-  version "1.3.834"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.834.tgz#57a94f4a6529c926a8c332b184b291230a3f2140"
-  integrity sha512-9hnYJOlj2zbVn59Oy1R2mW/jntsRG7Gy56/aAOq8s29DzDYW/kOrq/ryJXGAQRRMg4MreHjI63XavGZTsnPubg==
+  version "1.3.835"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.835.tgz#98fa4402ab7bc6afbe4953a8ca9b63cb3a6bf08b"
+  integrity sha512-rHQszGg2KLMqOWPNTpwCnlp7Kb85haJa8j089DJCreZueykoSN/in+EMlay3SSDMNKR4VGPvfskxofHV18xVJg==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -7285,9 +7285,9 @@ saxes@^5.0.1:
     xmlchars "^2.2.0"
 
 semantic-release-maven@^1.0.4, semantic-release-maven@latest:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.8.tgz#291666220e1ce3dcc270b3724062f33a5fcc005e"
-  integrity sha512-CbsPDP/wUS9e8odhta0UPrnWw6vFKpwD0BPGIMkAw/jV/PchqD5GUl33Rr+OWp48Xf/GtnPfH+KgAD8rQwWmHQ==
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/semantic-release-maven/-/semantic-release-maven-1.0.9.tgz#44f582a2cc34c2d6e585712c1d5139a7466d5ff3"
+  integrity sha512-LuviKph9YFPWoSEJnGUr2aPQtLlmCaz28243bFZSK9uMTXCkXl/lbRH1DOniUyj7i69c0Q/6YKtoykLsuTciqA==
   dependencies:
     aggregate-error "^3.1.0"
     execa "^5.1.1"
