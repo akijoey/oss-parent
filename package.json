@@ -1,6 +1,6 @@
 {
   "name": "oss-parent",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Parent pom for public maven projects.",
   "private": true,
   "scripts": {
