@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/AkiJoey/oss-parent/compare/v1.1.8...v1.2.0) (2022-01-16)
+
+
+### Bug Fixes
+
+* release script ([66c0d58](https://github.com/AkiJoey/oss-parent/commit/66c0d587829e2ef48eb0f97bd0b72e8897936e6c))
+
+
+### Features
+
+* upgrade devkit ([77f6215](https://github.com/AkiJoey/oss-parent/commit/77f621520ddc9ba57d51234e20070fa124597c44))
+
 ## [1.1.8](https://github.com/AkiJoey/oss-parent/compare/v1.1.7...v1.1.8) (2021-09-10)
 
 
