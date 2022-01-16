@@ -23,7 +23,7 @@ Add to your `pom.xml`:
 <parent>
   <groupId>com.akijoey</groupId>
   <artifactId>oss-parent</artifactId>
-  <version>1.1.8</version>
+  <version>1.2.0</version>
 </parent>
 ```
 
@@ -48,4 +48,4 @@ Performing a release deployment.
 [maven-image]: https://img.shields.io/maven-central/v/com.akijoey/oss-parent.svg?label=maven
 [maven-url]: https://search.maven.org/search?q=g:%22com.akijoey%22%20AND%20a:%22oss-parent%22
 [license-image]: https://img.shields.io/github/license/akijoey/oss-parent
-[license-url]: https://github.com/akijoey/oss-parent/blob/master/LICENSE
+[license-url]: https://github.com/akijoey/oss-parent/blob/main/LICENSE

@@ -4,17 +4,10 @@
   "description": "Parent pom for public maven projects.",
   "private": true,
   "scripts": {
-    "format": "dev-scripts format",
-    "prepare": "dev-scripts hook"
+    "format": "devkit format",
+    "prepare": "devkit prepare"
   },
   "devDependencies": {
-    "@akijoey/dev-scripts": "latest"
-  },
-  "prettier": "@akijoey/prettier-config",
-  "commitlint": {
-    "extends": "@akijoey/commitlint-config"
-  },
-  "lint-staged": {
-    "*.{json,yml}": "npm run format"
+    "@akijoey/devkit": "latest"
   }
 }

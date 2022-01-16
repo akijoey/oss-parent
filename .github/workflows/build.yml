@@ -9,15 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
+      - uses: actions/setup-node@main
       - uses: actions/setup-java@main
         with:
           distribution: 'temurin'
           java-version: '11'
-      - uses: actions/setup-node@main
-        with:
-          node-version: lts/*
       - run: yarn --frozen-lockfile
-      - run: npx semantic-release
+      - run: yarn release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SERVER_USERNAME: ${{ secrets.SERVER_USERNAME }}
