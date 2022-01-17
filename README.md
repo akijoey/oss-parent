@@ -1,6 +1,7 @@
 # oss-paret
 
 [![maven][maven-image]][maven-url]
+[![build][build-image]][build-url]
 [![license][license-image]][license-url]
 
 Parent pom for public maven projects.
@@ -47,5 +48,7 @@ Performing a release deployment.
 
 [maven-image]: https://img.shields.io/maven-central/v/com.akijoey/oss-parent.svg?label=maven
 [maven-url]: https://search.maven.org/search?q=g:%22com.akijoey%22%20AND%20a:%22oss-parent%22
+[build-image]: https://img.shields.io/github/workflow/status/akijoey/oss-parent/Build
+[build-url]: https://github.com/akijoey/oss-parent/actions/workflows/build.yml
 [license-image]: https://img.shields.io/github/license/akijoey/oss-parent
 [license-url]: https://github.com/akijoey/oss-parent/blob/main/LICENSE
